@@ -1,0 +1,29 @@
+========== SUMMARY ==========
+
+* The overall purpose of the Business Advantage Property Policy is to safeguard ABC Manufacturing Ltd.'s business assets against unexpected events.
+* The policy provides major coverages including building insurance with a limit of $1,250,000 and business personal property coverage with a limit of $350,000.
+* Additional coverages are available, including business income protection with a limit of $250,000, equipment breakdown protection with a limit of $120,000, and debris removal expenses with a limit of $40,000.
+* The policy excludes coverage for losses caused by pollution, cyber attacks, fraudulent employee activities, acts of war, or confiscation by government authorities.
+* To be eligible for claims, the insured must report any incident within 30 days of occurrence, along with supporting documentation, to receive reimbursement under the policy.
+
+========== COVERAGE JSON ==========
+
+{
+    "Building": "$1,250,000",
+    "Business Personal Property": "$350,000",
+    "Business Income Protection": "$250,000",
+    "Equipment Breakdown Protection": "$120,000",
+    "Debris Removal": "$40,000"
+}
+
+========== EXCLUSIONS ==========
+
+- Pollution
+- Cyber attacks
+- Fraudulent employee activities
+- Acts of war
+- Confiscation by government authorities
+
+========== SELF CHECK ==========
+
+PASS

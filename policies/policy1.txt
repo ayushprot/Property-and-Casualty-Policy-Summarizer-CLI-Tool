@@ -1,29 +1,13 @@
-HOME SHIELD INSURANCE POLICY
+SECURE HOME INSURANCE POLICY
 
-Policy Holder:
-John Smith
+Policy Number: SH-458923
+Insured: Michael Anderson
+Policy Period: 01-Jan-2026 to 31-Dec-2026
 
-Coverage:
-
-- Dwelling Coverage:
-Maximum Limit: $300,000
-
-- Personal Property:
-Maximum Limit: $120,000
-
-- Personal Liability:
-Maximum Limit: $500,000
-
-- Additional Living Expenses:
-Maximum Limit: $40,000
-
-Exclusions
-
-- Flood damage
-- Earthquake damage
-- Intentional property damage
-- Wear and tear
-- Nuclear hazard
-
-Policy Period:
-01 Jan 2026 - 31 Dec 2026
+Thank you for choosing Secure Home Insurance. This policy has been designed to provide financial protection for your residence and personal belongings against covered risks. 
+If your primary residence is damaged due to a covered event, we will reimburse repair or rebuilding costs up to $450,000. Personal belongings inside the home, including furniture, electronics, and clothing, are protected with a maximum benefit of $175,000.
+Should your home become temporarily uninhabitable because of a covered loss, reasonable living expenses such as hotel accommodation and meals will be reimbursed up to $60,000.
+The policy also includes personal liability protection. If a third party suffers bodily injury or property damage for which you are legally responsible, we will pay compensation up to $500,000.
+Medical expenses for visitors injured on your property are covered up to $8,000.
+Claims arising from floods or earthquakes are not covered by this agreement. Likewise, damage resulting from gradual wear and tear, intentional acts by the insured, or governmental seizure of property is outside the scope of this policy.
+Please review all policy conditions before submitting a claim.

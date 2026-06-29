@@ -5,40 +5,12 @@ import sys
 from extractor import extract
 from summarizer import summarize
 from verifier import verify
+from exclusion_extractor import extract_exclusions
 
 
 def read_policy(path):
     with open(path, "r", encoding="utf-8") as file:
         return file.read()
-
-
-def extract_exclusions(policy):
-    exclusions = []
-
-    lines = policy.splitlines()
-
-    capture = False
-
-    for line in lines:
-
-        text = line.strip()
-
-        if text.lower() == "exclusions":
-            capture = True
-            continue
-
-        if capture:
-
-            if text == "":
-                continue
-
-            if ":" in text:
-                break
-
-            exclusions.append(text.strip("- ").strip())
-
-    return exclusions
-
 
 def save_output(policy_path, summary, coverage, exclusions, verification):
     """

@@ -1,0 +1,31 @@
+========== SUMMARY ==========
+
+* The overall purpose of the Auto Secure Policy is to provide financial protection against losses or damages to vehicles and their occupants.
+* The policy offers major coverages including Collision Coverage with a $50,000 limit, Comprehensive Coverage with a $45,000 limit, Medical Payments with a $20,000 limit, and Liability Coverage with a $250,000 limit.
+* Additional coverage includes Rental Reimbursement with a $3,000 limit, which can be used to rent a vehicle if the insured vehicle is being repaired.
+* The policy excludes coverage for damages resulting from racing, drunk driving, commercial usage, war damage, and mechanical breakdown.
+* In the event of a claim, it is essential to report the incident promptly, and policy conditions require that all claims be reported within the specified timeframe to ensure coverage applies, with all necessary documentation and information to be provided to facilitate the claims process.
+
+========== COVERAGE JSON ==========
+
+{
+    "Collision Coverage": "$50,000",
+    "Comprehensive Coverage": "$45,000",
+    "Medical Payments": "$20,000",
+    "Liability Coverage": "$250,000",
+    "Rental Reimbursement": "$3,000"
+}
+
+========== EXCLUSIONS ==========
+
+- Racing
+- Drunk driving
+- Commercial usage
+- War damage
+- Mechanical breakdown
+
+========== SELF CHECK ==========
+
+FAIL
+
+The summary mentions "policy conditions require that all claims be reported within the specified timeframe to ensure coverage applies" which is not present in the original policy. The original policy only mentions the coverage limits and exclusions, but does not specify the timeframe for reporting claims or the claims process.
