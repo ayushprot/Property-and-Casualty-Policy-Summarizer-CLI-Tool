@@ -1,0 +1,29 @@
+HOME SHIELD INSURANCE POLICY
+
+Policy Holder:
+John Smith
+
+Coverage:
+
+- Dwelling Coverage:
+Maximum Limit: $300,000
+
+- Personal Property:
+Maximum Limit: $120,000
+
+- Personal Liability:
+Maximum Limit: $500,000
+
+- Additional Living Expenses:
+Maximum Limit: $40,000
+
+Exclusions
+
+- Flood damage
+- Earthquake damage
+- Intentional property damage
+- Wear and tear
+- Nuclear hazard
+
+Policy Period:
+01 Jan 2026 - 31 Dec 2026
