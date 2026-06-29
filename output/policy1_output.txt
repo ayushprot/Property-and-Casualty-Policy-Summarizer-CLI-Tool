@@ -1,0 +1,29 @@
+========== SUMMARY ==========
+
+Here are five key points about the Home Shield Insurance Policy:
+* The policy provides up to $300,000 in coverage for damage to the dwelling itself.
+* John Smith's personal property is covered up to $120,000 in case of damage or loss.
+* If someone is injured on John Smith's property, the policy provides up to $500,000 in personal liability coverage.
+* The policy does not cover damage caused by floods, earthquakes, or intentional acts, among other exclusions.
+* If John Smith's home is uninhabitable due to a covered event, the policy provides up to $40,000 for additional living expenses.
+
+========== COVERAGE JSON ==========
+
+{
+    "Dwelling Coverage": "$300,000",
+    "Personal Property": "$120,000",
+    "Personal Liability": "$500,000",
+    "Additional Living Expenses": "$40,000"
+}
+
+========== EXCLUSIONS ==========
+
+- Flood damage
+- Earthquake damage
+- Intentional property damage
+- Wear and tear
+- Nuclear hazard
+
+========== SELF CHECK ==========
+
+PASS
